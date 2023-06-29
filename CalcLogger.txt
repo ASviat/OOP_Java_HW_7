@@ -1,0 +1,20 @@
+июн. 29, 2023 11:57:44 PM CalculatorPresenter performCalculation
+INFO: Программа запущена.
+июн. 29, 2023 11:57:49 PM CalculatorModel fromString
+INFO: Real = 2.0
+июн. 29, 2023 11:57:49 PM CalculatorModel fromString
+INFO: Imaginary = 4.0
+июн. 29, 2023 11:57:49 PM CalculatorPresenter performCalculation
+INFO: Реальная часть 1 комплексного числа = 2.0
+июн. 29, 2023 11:57:50 PM CalculatorPresenter performCalculation
+INFO: Знак между комплексными числами = -
+июн. 29, 2023 11:57:56 PM CalculatorModel fromString
+INFO: Real = -6.0
+июн. 29, 2023 11:57:56 PM CalculatorModel fromString
+INFO: Imaginary = 8.0
+июн. 29, 2023 11:57:56 PM CalculatorPresenter performCalculation
+INFO: Реальная часть 2 комплексного числа = -6.0
+июн. 29, 2023 11:57:56 PM CalculatorPresenter performCalculation
+INFO: Результат предоставлен.
+июн. 29, 2023 11:57:56 PM CalculatorProgram main
+INFO: Работа завершена.
